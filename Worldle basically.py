@@ -17,3 +17,8 @@ Created on Sat Nov 26 08:02:55 2022
 # distance Venezuela to Brazil: 2801 Km -- it's Brazil!
 
 # https://www.geodatos.net/en/distances/country/venezuela
+#%%
+
+Recognizable! 
+
+#%%
