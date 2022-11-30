@@ -63,3 +63,14 @@ Recognizable!
 
 #%%
 
+# guess 1 --> Anguila
+# response 1 = 38%, 12,306km west
+
+# guess 2 --> Northern mariana islands
+# response 2 = 72%, 5,540 km SE
+
+# guess 3 --> American Samoa
+# response 3 = 96%, 620 km N
+
+
+# answer: Tokelau
