@@ -19,19 +19,6 @@ Created on Sat Nov 26 08:02:55 2022
 # https://www.geodatos.net/en/distances/country/venezuela
 #%%
 
-Recognizable! 
-
-#%%
-
-# guess 1 --> Syria
-
-# response: 87%, 2473 km NW
-
-# Syria: 34.8021° N, 38.9968° E
-
-# to turkey 7xx
-# to Bulgaria  1,3xx
-# to Austria 2,4xx -- Winner!
 
 #%%
 
@@ -94,5 +81,16 @@ Recognizable!
 #%% 
 
 #  borders -- Malta, tricky!
+
+#%%
+
+# airforce wings, tilted to NE.. hmmm...
+
+# Mongolia, no
+# Response 1 --> 76%, 4702 km west
+
+# Georgia!
+
+# border bonus:  Turkey, Armenia, Azerbaijan!      Russia.
 
 #%%
