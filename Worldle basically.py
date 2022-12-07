@@ -94,3 +94,39 @@ Recognizable!
 # border bonus:  Turkey, Armenia, Azerbaijan!      Russia.
 
 #%%
+
+# oh, one of those acorn-y shaped ones, hmm...
+
+# french guiana
+# response 1 --> 53%, 9352 km west
+
+#lat 3. N   long  53 west
+
+diff = 9352/111
+
+#lat 3 + 84 = 87 
+
+#mayotte
+#lat -12, long 45
+
+#%%
+
+# zimbabwe!!
+
+# lat 19 long 29
+
+# 3-19 = 16 approx lat
+# 53-29 = 24 approx long
+
+difff = (16*111)+(24*55)
+
+# 3096
+
+# hmmmm..... 
+
+# to review!
+#%%
+
+# 4 borderers, woot!
+
+#%%
