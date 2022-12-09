@@ -130,3 +130,11 @@ difff = (16*111)+(24*55)
 # 4 borderers, woot!
 
 #%%
+
+# a half deflated balloon
+# no islands or feathery edges - inland
+
+# Niger! Yes!
+ 
+# plus borders - all set!
+#%%
