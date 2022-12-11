@@ -138,3 +138,9 @@ difff = (16*111)+(24*55)
  
 # plus borders - all set!
 #%%
+
+# very water-border-y! and political boundary-y!
+
+# thailand!!
+
+# borders also sigh. Gotten to know you.. gotten to know all about you...
