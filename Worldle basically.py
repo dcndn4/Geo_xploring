@@ -46,41 +46,6 @@ difff = (13.5*111)+(22.5*55)
 
 #%%
 
-Recognizable!
-
-#%%
-
-# guess 1 --> Anguila
-# response 1 = 38%, 12,306km west
-
-# guess 2 --> Northern mariana islands
-# response 2 = 72%, 5,540 km SE
-
-# guess 3 --> American Samoa
-# response 3 = 96%, 620 km N
-
-
-# answer: Tokelau
-
-# more to do!
-
-#%%
-
-#  primary land mass, plus islands..
-
-# .... south korea.. that's it!
-
-#%%
-
-# z! Plus did bonus neighbors, woo-hoo!
-
-#%%
-
-# most recognizable!
-
-#%% 
-
-#  borders -- Malta, tricky!
 
 #%%
 
@@ -144,3 +109,32 @@ difff = (16*111)+(24*55)
 # thailand!!
 
 # borders also sigh. Gotten to know you.. gotten to know all about you...
+#%%
+
+# ok so internal border to the west, coastal boarder to the north and possibly east...
+
+# guess 1 - Brunei
+# response 1 65%, 6850 km west
+
+# lat 4.5 n, long, 114, 40' east
+
+# straight west would be 6850/105 or so to start with
+
+long = 6850/105 
+
+# 65 degrees over 
+
+longnew = 114-65
+
+# 49 east -- around Somalia!
+
+#%%
+
+# guess 2 = djibouti at 11 n and 43 e
+# response = 91%, 1757 km north east
+
+# United Arab Emirates!!
+#%%
+
+# borders as well!!
+#%%
