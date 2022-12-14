@@ -138,3 +138,27 @@ longnew = 114-65
 
 # borders as well!!
 #%%
+
+# very water-border-y, all around
+
+
+# Guess 1 = Dominican Republic
+# Response 1 = 44%, 11,094km east
+
+# Sri Lanka 68% 6304km North
+# Malta 66% 6609 km NE
+# I was thinking it was really really small, completely off base!
+# Denmark 74% 5036km East
+# wait a minute.. what on earth is same distance from all these diff places.. not an island anything, but on sea..
+# Mongolia 91% 1,635 km E
+
+# Russia!!
+
+# borders - so many!
+
+# also not maritime ones per wiki - not Japan, not US
+
+# and not all my guesses though, 2 off so far
+# 14 border countries!
+#%%
+
