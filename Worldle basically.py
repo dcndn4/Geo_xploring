@@ -162,3 +162,8 @@ longnew = 114-65
 # 14 border countries!
 #%%
 
+# Near! Too far! Middle, too south! Got it!
+
+# Neighbors all good also.
+
+#%%
