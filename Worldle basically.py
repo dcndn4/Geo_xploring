@@ -167,3 +167,16 @@ longnew = 114-65
 # Neighbors all good also.
 
 #%%
+
+
+# very sea-border-y
+# not sure size, and maps don't present details of big countries
+
+# guess 1 -Samoa -- way off!
+# guess 2 - Iceland - much closer -clearly Europe
+
+# Netherlands!
+
+# 3 borders - all good. 
+
+#%%
