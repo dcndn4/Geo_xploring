@@ -180,3 +180,13 @@ longnew = 114-65
 # 3 borders - all good. 
 
 #%%
+
+# land mass with narrow strip of land to the East.. familiar!
+# guess # 3 - A----------!
+
+# borders - Pakistan of course, very complicated
+# China - narrow strip of land purpose?!
+# Iran - hence..
+# other former portions of whole 
+
+#%%
